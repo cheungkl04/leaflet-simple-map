@@ -1,32 +1,32 @@
-LATITUDE,LONGITUDE,TITLE,ADDRESS
-49.22249551,-123.1002624,City of Vancouver,6810 Main Street
-49.2904,-123.1371,Easy Park Lot,900 Denman St
-49.26248051,-123.1136864,Easy Park Lot,455 West 10th Ave
-49.29028782,-123.1254694,Coal Harbour Community Centre,480 Broughton Street
-49.243656,-123.106549,CoV,4575 Clancy Loranger Way
-49.268372,-123.185974,Jericho Village,2083 Alma St.
-49.28700382,-123.1196416,Ivanhoe Cambridge,1040 W. Pender St.
-49.212004,-123.106978,Canadian Tire,26 Marine Drive SW
-49.28775,-123.112943,Canada Place,999 Canada Place Way
-49.283672,-123.1173,Easy Park Lot,701 W. Georgia St.
-49.233385,-123.117592,Ivanhoe Cambridge,650 W.41st Ave.
-49.204022,-123.134491,ASQ Building Ltd,1200 W.73rd Ave.
-49.30005,-123.130193,Vancouver Aquarium,845 Avison Way
-49.283543,-123.115042,BCIT / Impark,"555 Seymour St,"
-49.283155,-123.142173,Easy Park / Park Board,Beach Ave. @ Cardero St.
-49.281483,-123.139793,Easy Park / Park Board,Beach Ave. @ Broughton St.
-49.278736,-123.137209,Easy Park / Park Board,Beach Ave. @ Bute St.
-49.286919,-123.12074,Ivanhoe Cambridge,1055 Eveleigh St.
-49.277692,-123.124668,Best Western,1100 Granville St.
-49.276952,-123.118741,City of Vancouver,911 Mainland St.
-49.279426,-123.115606,Easypark,775 Hamilton St.
-49.26036,-123.1239,Vancouver General Hospital,890 W.12th Ave.
-49.26036,-123.1239,VSB,1580 W. Broadway
-49.276066,-123.071246,VSB,1661 Napier St.
-49.279306,-123.101866,Easypark,180 Keefer St.
-49.286447,-123.04354,Pacific National Exhibition,
-49.273767,-123.152652,City of Vancouver,1305 Arbutus St.
-49.280369,-123.116602,Impark,788 Richards St.
-49.264664,-123.100393,Easypark,1 Kingsway
-49.226886,-123.129085,Telus / Retailer,6469 Oak St.
-49.281369,-123.033786,City of Vancouver,
+TITLE,ADDRESS,LATITUDE,LONGITUDE
+City of Vancouver,6810 Main Street,49.22249551,-123.1002624
+Easy Park Lot,900 Denman St,49.2904,-123.1371
+Easy Park Lot,455 West 10th Ave,49.26248051,-123.1136864
+Coal Harbour Community Centre,480 Broughton Street,49.29028782,-123.1254694
+CoV,4575 Clancy Loranger Way,49.243656,-123.106549
+Jericho Village,2083 Alma St.,49.268372,-123.185974
+Ivanhoe Cambridge,1040 W. Pender St.,49.28700382,-123.1196416
+Canadian Tire,26 Marine Drive SW,49.212004,-123.106978
+Canada Place,999 Canada Place Way,49.28775,-123.112943
+Easy Park Lot,701 W. Georgia St.,49.283672,-123.1173
+Ivanhoe Cambridge,650 W.41st Ave.,49.233385,-123.117592
+ASQ Building Ltd,1200 W.73rd Ave.,49.204022,-123.134491
+Vancouver Aquarium,845 Avison Way,49.30005,-123.130193
+BCIT / Impark,"555 Seymour St,",49.283543,-123.115042
+Easy Park / Park Board,Beach Ave. @ Cardero St.,49.283155,-123.142173
+Easy Park / Park Board,Beach Ave. @ Broughton St.,49.281483,-123.139793
+Easy Park / Park Board,Beach Ave. @ Bute St.,49.278736,-123.137209
+Ivanhoe Cambridge,1055 Eveleigh St.,49.286919,-123.12074
+Best Western,1100 Granville St.,49.277692,-123.124668
+City of Vancouver,911 Mainland St.,49.276952,-123.118741
+Easypark,775 Hamilton St.,49.279426,-123.115606
+Vancouver General Hospital,890 W.12th Ave.,49.26036,-123.1239
+VSB,1580 W. Broadway,49.26036,-123.1239
+VSB,1661 Napier St.,49.276066,-123.071246
+Easypark,180 Keefer St.,49.279306,-123.101866
+Pacific National Exhibition,,49.286447,-123.04354
+City of Vancouver,1305 Arbutus St.,49.273767,-123.152652
+Impark,788 Richards St.,49.280369,-123.116602
+Easypark,1 Kingsway,49.264664,-123.100393
+Telus / Retailer,6469 Oak St.,49.226886,-123.129085
+City of Vancouver,,49.281369,-123.033786
